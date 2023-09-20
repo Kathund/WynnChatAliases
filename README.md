@@ -1,6 +1,6 @@
 # WynnChatAliases
 
-[ChatTriggers Module](https://www.chattriggers.com/modules/v/Kath)
+[ChatTriggers Module](https://www.chattriggers.com/modules/v/WynnChatAliases)
 
 ## Description
 
