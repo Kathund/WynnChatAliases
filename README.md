@@ -12,7 +12,7 @@ A ChatTriggers module that is designed to allow you to use hypixel chat commands
 - `/pc <message>` - Sends a message to your party
 - `/gc <message>` - Sends a message to your guild
 - `/fl` - Shows your friends list
-- `/gc` - Lists out all the members in your guild
+- `/gl` - Lists out all the members in your guild
 
 ## v1.1.0
 
