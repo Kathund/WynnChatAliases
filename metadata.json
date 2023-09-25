@@ -3,5 +3,5 @@
   "description": "Allows you to use hypixel commands in wynncraft",
   "author": "Kathund",
   "entry": "index.js",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
