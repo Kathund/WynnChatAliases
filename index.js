@@ -52,3 +52,8 @@ register('command', () => {
 register('command', () => {
   ChatLib.command('party list');
 }).setName('pl');
+
+// Guild List Command
+register('command', () => {
+  ChatLib.command('guild list');
+}).setName('gl');
