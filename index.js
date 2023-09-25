@@ -1,7 +1,6 @@
 var sentCheck = FileLib.read('./config/ChatTriggers/modules/WynnChatAliases/check.txt');
 if (sentCheck === 'false') {
   var sent = FileLib.read('./config/ChatTriggers/modules/WynnChatAliases/check.txt');
-  console.log(sent);
   ChatLib.chat(
     '&a&m           &d&m           &e&m           &a&m           &d&m           &e&m           &a&m          &d'
   );
@@ -36,13 +35,11 @@ if (sentCheck === 'false') {
 
 // Party Command
 register('command', (...args) => {
-  ChatLib.chat('a');
   ChatLib.command(`p ${args.join(' ')}`);
 }).setName('pc');
 
 // Guild Command
 register('command', (...args) => {
-  ChatLib.chat('a');
   ChatLib.command(`g ${args.join(' ')}`);
 }).setName('gc');
 
